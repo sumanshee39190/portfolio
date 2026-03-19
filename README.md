@@ -1,4 +1,4 @@
-# 🚀 Suman Shee - Developer Portfolio  
+# 🚀 Suman Kumar Shee - Developer Portfolio  
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge&logo=vercel)
 ![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)
