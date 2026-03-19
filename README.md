@@ -90,29 +90,28 @@ You can deploy your own version easily by connecting your GitHub repository to V
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sumankumarshee/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/sumanshee39190)
 
-⭐ Support
+## ⭐ Support
 
 If you like this project:
 
-⭐ Star this repository
+- ⭐ Star this repository  
+- 🍴 Fork it  
+- 📢 Share it  
 
-🍴 Fork it
+---
 
-📢 Share it
+## 💡 Future Improvements
 
-💡 Future Improvements
+- 🌗 Dark/Light mode toggle  
+- 🧠 Blog section  
+- 🚀 Performance optimization  
+- 🎮 More 3D interactions  
 
-🌗 Dark/Light mode toggle
+---
 
-🧠 Blog section
+## 📄 License
 
-🚀 Performance optimization
-
-🎮 More 3D interactions
-
-📄 License
-
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
 
 ## 🌟 Credits
 
